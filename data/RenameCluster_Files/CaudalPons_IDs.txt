@@ -1,0 +1,14 @@
+old	new
+0	Lineage2
+1	Lineage1
+2	Progenitor
+3	Lineage3
+4	Lineage2
+5	Lineage1
+6	Lineage3
+7	Lineage3
+8	Lineage1
+9	Lineage3
+10	Lineage2
+11	Lineage3
+12	NA

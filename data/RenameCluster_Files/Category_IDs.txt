@@ -1,0 +1,41 @@
+old	new
+0	Progenitor
+1	Mature
+2	Migrating_1
+3	Progenitor
+4	Mature
+5	Migrating_1
+6	Progenitor
+7	Intermediate Progenitor
+8	Intermediate Progenitor
+9	Mature
+10	Migrating_1
+11	Migrating_2
+12	Migrating_2
+13	Migrating_1
+14	Migrating_2
+15	Progenitor
+16	Migrating_2
+17	Migrating_1
+18	Mature
+19	Mature
+20	Mature
+21	Migrating_1
+22	Migrating_2
+23	Migrating_1
+24	Mature
+25	Mature
+26	Mature
+27	Mature
+28	Mature
+29	Progenitor
+30	Mature
+31	Mature
+32	Migrating_2
+33	Mature
+34	Mature
+35	Intermediate Progenitor
+36	Non RL
+37	Progenitor
+38	Non RL
+39	Mature

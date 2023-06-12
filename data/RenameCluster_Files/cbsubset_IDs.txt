@@ -1,0 +1,17 @@
+old	new
+0	UBC
+1	UBC
+2	UBC
+3	EGL
+4	EGL
+5	EGL
+6	EGL
+7	EGL
+8	EGL
+9	EGL
+10	EGL
+11	EGL
+12	UBC
+13	Progenitor
+14	UBC
+15	UBC

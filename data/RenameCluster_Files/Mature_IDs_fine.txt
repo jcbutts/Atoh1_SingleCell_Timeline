@@ -1,0 +1,40 @@
+old	new
+0	PBC - Pax5+  Npnt+
+1	PN/RtTg late
+2	PN/RtTg early
+3	Medulla: Cu Gra MdD SpI
+4	Medulla: Cu Gra MdD SpI
+5	PBC/Lateral Cb Nuclei
+6	EGL
+7	Medulla: SpI
+8	PPTg, LDT, PnO, MiTg
+9	Lateral PBC - Foxp2+ Th+
+10	Early CN
+11	Vestibular and SON
+12	DCN early
+13	Lateral Cb nuclei
+14	UBC
+15	Predicted LRt/ECu 
+16	Lateral PBC - Pax5+  Foxp2+
+17	Mixture of rostral and caudal
+18	PBC - Pax5+ 
+19	Dorsal Spinal Cord - Lhx1+
+20	MPL
+21	PBC - Pax5+  Npnt+
+22	Sst - Mixture of rostral and caudal
+23	PN/RtTg late
+24	Predicted LRt/ECu 
+25	PBC - Pax5+  Npnt+
+26	PPTg, LDT, PnO, MiTg
+27	Dorsal Spinal Cord - Olig3+ 
+28	Pr5
+29	Cacng5+, Lypd1+
+30	Lateral Cb nuclei
+31	ILL
+32	RTN/ITR
+33	Ventral CN
+34	Lateral PBC - Foxp2+ Shox2+
+35	DCN late
+36	Dorsal CN
+37	Medulla Cck+ Rora+ 
+38	Cranial MN 

@@ -1,0 +1,41 @@
+old	new
+0	Progenitor
+1	CLS
+2	Early RLS
+3	Progenitor
+4	Early RLS
+5	AES
+6	Progenitor
+7	Progenitor
+8	Progenitor
+9	AES
+10	CLS
+11	Early RLS
+12	Cb RLS
+13	Caudal Pons
+14	Cb RLS
+15	Progenitor
+16	AES
+17	CES
+18	Early RLS
+19	Early RLS
+20	Cb RLS
+21	Early Pons
+22	CLS
+23	Cb RLS
+24	Caudal Pons
+25	Spinal Cord
+26	AES
+27	Early RLS
+28	CES
+29	Progenitor
+30	PES
+31	SST
+32	PES
+33	Caudal Pons
+34	Caudal Pons
+35	Progenitor
+36	Non RL
+37	Progenitor
+38	Non RL
+39	Early RLS
