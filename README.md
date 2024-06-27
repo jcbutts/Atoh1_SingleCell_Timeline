@@ -1,4 +1,4 @@
-# Atoh1_Timeline_SingleCell
+# Atoh1_SingleCell_Timeline
  
 <<<<<<< HEAD
 ##src
@@ -10,7 +10,8 @@ R scripts used to generate figures in manuscript
 Input data including:
 CUT&RUN peak files
 Text files to rename clusters
-Image analysis quantificationImage analysis quantification
+Image analysis quantification
+=======
 ## src
 
 R scripts used to generate figures in manuscript
