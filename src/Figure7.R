@@ -241,4 +241,3 @@ traj.dat <- GetMultipleTraj(Eomes_UBC_subset, traj.labels,UBC_genes)
 #Figure 7G - change in gene expression of Eomes+ UCB in pseudotime
 p<- PlotGenePseudotime_UBC(traj.dat)
 save_plot('Plots/Figure7_UBC_genes_Lineplot.pdf', p, base_width = 4, base_height = 6)
-
